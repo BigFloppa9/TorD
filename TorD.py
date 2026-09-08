@@ -1,5 +1,5 @@
 # Commands: .TorD | .endgame (.end) | .TorDmode
-# meta developer: @your_username (edit me)
+# meta developer: @RoKrz
 
 __version__ = (1, 2)
 
